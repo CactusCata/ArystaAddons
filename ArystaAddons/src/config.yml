@@ -1,0 +1,22 @@
+message_config_reload: "Reloaded"
+chest_viewer:
+  region_not_avaible: '&cYou can''t do that here !'
+  material: bone
+  item_name: '&f&oClé &lOf&6&li&e&lx'
+  received: '&f*&7> Vous avez reçu une &f&oClé &e&lOf&6&li&e&lx&f.'
+  chest_name: 'JE SUIS TON PEEEEEEEEEEEEEEre'
+  lore: 
+    - 'kjdhhfkru'
+    - 'selfhriusohfv'
+    - 'oshdofsdyui'
+chunk_viewer:
+  region_not_avaible: '&cYou can''t do that here !'
+  material: watch
+  item_name: '&f&oClé &lOf&6&li&e&lx'
+  received: '&f*&7> Vous avez reçu une &f&oClé &e&lOf&6&li&e&lx&f.'
+  wait_message: 'Tu dois attendre encore {TIME} secondes'
+  time_to_wait: 654
+  lore: 
+    - 'kjdhhfkru'
+    - 'selfhriusohfv'
+    - 'oshdofsdyui'

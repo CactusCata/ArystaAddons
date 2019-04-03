@@ -1,0 +1,23 @@
+main: com.mateusfrz.arystaaddons.ArystaAddons
+name: ArystaAddons
+version: 1.0.0
+author: CactusCata
+depend: [Factions]
+commands:
+  ofix:
+    permission: arysta.ofix
+    permission-message: "&eYou not have the permission to do that !"
+    description: "Cette commande te donne un os magique"
+    usage: /<command>
+  ping:
+    description: "Cette commande te donne ton ping ou celui d'un joueur"
+    usage: /<command> <player>
+  synax:
+    permission: arysta.synax
+    permission-message: "&eYou not have the permission to do that !"
+    description: "Cette commande te donne une boussole"
+    usage: /<command>
+  arysta:
+    permission: arysta.configazy
+    description: "Cette commande te permet de configurer les options presentes dans le fichier config.yml"
+    usage: /<command> [chestviewer|chunkviewer] [path] [arg]
